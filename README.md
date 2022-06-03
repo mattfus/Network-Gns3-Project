@@ -1,5 +1,7 @@
 # Network-Gns3-Project
-Small Gns3 network project for University purpose.
+Small Gns3 network project for University purpose. Need to organize and build a network configuration between hosts, routers and firewalls using a type B network.
+This project consist of 2 Demilitarized Zones, 1 Red area, 2 Green areas. Every zone has its function(s) and its collision domains.
+For this example you can use whatever type of network you want.
 
 <h1> AREAS</h1>
 
