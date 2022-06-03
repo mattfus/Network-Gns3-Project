@@ -48,7 +48,7 @@ For this example you can use whatever type of network you want.
     *perchè non è possibile avere una rotta sola per due router diversi*
     
     *It's not possible to unify same areas belonging different firewalls/routers*
-    *becouse we can't have the one route to different routers*
+    *becouse can not exists one route to different firewalls/routers*
 
     CD_RED MASK 26
         ->CD1 /26
