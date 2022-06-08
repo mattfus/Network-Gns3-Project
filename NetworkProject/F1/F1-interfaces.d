@@ -30,4 +30,4 @@ post-up route add -net 172.16.8.68/30 gw 172.16.8.66 dev eth2
 post-up route add -net 172.16.8.72/30 gw 172.16.8.66 dev eth2
 
 #F1-->DMZ
-post-up route add -net 172.16.0.0 netmask 255.255.252.0 gw dev eth2
+post-up route add -net 172.16.0.0/22 gw 172.16.8.66 dev eth2
