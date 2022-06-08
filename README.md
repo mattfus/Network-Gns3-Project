@@ -3,7 +3,7 @@ Small Gns3 network project for University purpose. Need to organize and build a 
 This project consist of 2 Demilitarized Zones, 1 Red area, 2 Green areas. Every zone has its function(s) and its collision domains.
 For this example you can use whatever type of network you want.
 
-<p> Using gns3 with Virtual Box may cause some crashes that will make your project unavailable, i recommend using gns3 with VMware Workstation Pro. <p>
+<p> Using gns3 with Virtual Box on Windows OS may cause some crashes that will make your project unavailable, i recommend using gns3 with VMware Workstation Pro or using it on Ubuntu<p>
 
 <h1> AREAS</h1>
 
